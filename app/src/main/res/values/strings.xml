@@ -5,4 +5,6 @@
     <string name="tutup">tutup</string>
     <string name="alertdialog_standard">AlertDialog Standard</string>
     <string name="alertdialog_fragment">AlertDialog Fragment</string>
+    <string name="alertdialog_button">AlertDialog Button</string>
+    <string name="alertdialog_costume">AlertDialog Costume</string>
 </resources>
