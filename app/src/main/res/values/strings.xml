@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise Dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tutup">tutup</string>
+    <string name="alertdialog_standard">AlertDialog Standard</string>
+    <string name="alertdialog_fragment">AlertDialog Fragment</string>
+</resources>
